@@ -1,6 +1,6 @@
 
 
-## [wild code School](https://wildcodeschool.fr/) first project
+## [Wild Code School](https://wildcodeschool.fr/) first project
 
 
 This website has been created from scratch by 6 students at the beginning of the Wild Code School training.&nbsp;
